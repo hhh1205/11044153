@@ -1,0 +1,164 @@
+* {
+    box-sizing: border-box;
+    margin: 0px auto;
+}
+
+body {
+    background-color: #edf6f9;
+}
+
+header {
+    color: #edf6f9;
+    background-color: #006d77;
+    font-family: monospace;
+    text-align: center;
+    font-size: 50px;
+    padding: 20px;
+    position: center;
+}
+
+nav {
+    background-color: #83c5be;
+    font-size: 25px;
+    text-align: center;
+}
+
+nav a {
+    padding: 10px;
+    border-color: #edf6f9;
+    border-radius: 5%;
+    font-family: "標楷體";
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: #006d77;
+    color: white;
+}
+
+.se1 {
+    color: black;
+    background-color: #ffddd2;
+    padding: 25px;
+    width: 47%;
+    border-style: dotted;
+    margin: 20px;
+    float: left;
+}
+
+.myintro {
+    text-align: left;
+    font-family: "新細明體";
+    font-weight: bold;
+}
+
+div h1 {
+    font-family: "標楷體";
+}
+
+.sentence {
+    font-size: 30px;
+    text-align: center;
+}
+
+.se2 {
+    color: black;
+    background-color: #ffddd2;
+    padding: 25px;
+    width: 45%;
+    border-style: dotted;
+    margin: 20px;
+    float: right;
+    text-align: left
+}
+
+progress {
+    width: 200px;
+}
+
+.se3 {
+    color: black;
+    background-color: #ffddd2;
+    padding: 25px;
+    width: 45%;
+    border-style: dotted;
+    margin: 20px;
+    float: right;
+}
+
+.se3 img {
+    text-align: center;
+}
+
+.textrange {
+    width: 400px;
+    text-align: left;
+    font-size: 20px;
+}
+
+.se4 {
+    color: black;
+    background-color: #ffddd2;
+    padding: 25px;
+    width: 47%;
+    border-style: dotted;
+    margin: 20px;
+    float: left;
+}
+
+.school-center {
+    text-align: center;
+}
+
+.se5 {
+    color: black;
+    background-color: #ffddd2;
+    padding: 25px;
+    width: 47%;
+    border-style: dotted;
+    margin: 20px;
+    float: left;
+}
+
+.myphoto img {
+    border-radius: 50%;
+    position: left;
+}
+
+.s1 {
+    background-color: #e29578;
+    border-radius: 10px;
+    font-family: "標楷體";
+    font-size: 40px;
+    font-style: italic;
+}
+
+.skill-p {
+    text-align: justify;
+}
+
+p {
+    font-family: "微軟正黑體";
+    font-size: 20px;
+    position: right;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    color: black;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    font-size: 28px;
+}
